@@ -41,7 +41,7 @@ Our recommendations were delivered to the client through a short presentation of
 	- Gives potential attendees significant lead time to incorporate into their schedules
 	- Avoids the summer decline in commuter traffic due to extended vacations
 - Station Placement & Rationale: Six stations in total
-	- Grand Central:  High income, and high traffic particularly from other high income regions\
+	- Grand Central:  High income, and high traffic particularly from other high income regions
 	- Penn Station, 34 St:  High traffic due to status as tri-state commuter hub
 	- Herald Square, 34 St:  High traffic due to proximity to Macy’s as well as NJ commuters
 	- 86th St:   High traffic, also considered one of Manhattan’s wealthiest neighborhoods
