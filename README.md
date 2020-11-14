@@ -40,12 +40,15 @@ Our recommendations were delivered to the client through a short presentation of
 	- 86th St:   High traffic, also considered one of Manhattan’s wealthiest neighborhoods
 	- Union Square 14 St:  High income and high traffic due to shops, dining, cafes and a park
 
-### Tools and technologies used
+### Tools and techniques used
 - [Jupyter](https://jupyter.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/index.html)
+- [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+
+
 
 
