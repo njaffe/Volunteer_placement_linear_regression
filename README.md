@@ -22,11 +22,6 @@ Our recommendations were delivered to the client through a short presentation of
 	- Brian McGarry
 	- Vinny Senguttuvan
 	- Anterra Kennedy
-- Data were analyzed using the following Python modules:
-	- Pandas
-	- Numpy
-	- Matplotlib
-	- Seaborn
 - Project steps were as follows:
 	- Download MTA and income datasets
 	- Select time frame for MTA data
@@ -50,5 +45,7 @@ Our recommendations were delivered to the client through a short presentation of
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/index.html)
 
 
